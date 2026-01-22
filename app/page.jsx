@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export default function Home() {
   return ( 
-  <div className="mt-40">
+  <div className="mt-15">
     <HeroSection/>
 
     {/* Stats Section */}
